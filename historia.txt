@@ -1,0 +1,2 @@
+"La historia de Python"
+"Python fue creado por Guido van Rossum a finales de la d‚cada de 1980 y lanzado en 1991. Van Rossum, trabajando en el Centrum Wiskunde & Informatica (CWI) en los Pa¡ses Bajos, buscaba un lenguaje f cil de leer y con sintaxis sencilla, inspirado en ABC pero con mayor extensibilidad. Python fue dise¤ado para ser intuitivo, con soporte para programaci¢n orientada a objetos, funcional e imperativa. Su nombre proviene del grupo de comedia brit nico Monty Python"
